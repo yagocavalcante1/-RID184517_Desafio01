@@ -1,0 +1,141 @@
+* {
+    margin: 0px;
+    font-family: "inter";
+}
+
+#menu-superior {
+
+    background-color: #303030;
+    width: 100vw;
+    height: 475px;
+}
+
+#titulo-menu-superior {
+    color: #FFFFFF;
+    padding-top: 160px;
+    margin-left: 50px;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -0.025em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+#texto-menusuperior {
+    color: #FFFFFF;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+#menu-informacional {
+    background: #F9F9F9;
+    align-items: center;
+    width: 100vw;
+    height: 229px;
+    gap: 0px;
+    opacity: 0px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+
+}
+
+#titulo-menu-informacional {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-left: 100px;
+
+}
+
+#texto-menu-informacional {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-left: 100px;
+}
+
+#menu-imagem {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    align-items: center;
+}
+
+#texto-menu-imagem {
+    margin-left: 50px;
+}
+
+img {
+    margin-left: 350px;
+    margin-top: 70px;
+}
+
+#formulario {
+    width: 100vw;
+    height: 638px;
+    top: 1478px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 50px;
+    background-color: #303030;
+    color: #FFFFFF;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+#titulo-formulario {
+    padding-top: 150px;
+}
+
+input {
+    width: 450px;
+    height: 50px;
+    top: 1661px;
+    left: 466px;
+    gap: 0px;
+    border-radius: 10px;
+    opacity: 0px;
+
+}
+
+button {
+    background-color: #C07212;
+    color: #FFFFFF;
+    width: 286px;
+    height: 74px;
+    top: 1955px;
+    left: 577px;
+    gap: 0px;
+    border-radius: 10px;
+    opacity: 0px;
+    font-family: Raleway;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    cursor: pointer;
+
+}
