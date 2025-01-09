@@ -3,3 +3,7 @@
 Link da planilha:
 
 https://docs.google.com/spreadsheets/d/1p_vH6A7JrbauCPFsG3shS_xfaSDrkciQPftHMgLWub0/edit?gid=0#gid=0
+
+link do site:
+
+https://elegant-lamington-81f56a.netlify.app/
